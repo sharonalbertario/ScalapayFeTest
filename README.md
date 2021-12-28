@@ -1,0 +1,22 @@
+# Case study for Lead Software Engineer - discovery team
+
+## Task
+
+Please write a static website that mimic the below image using
+![image](ScreenTestSite.png)
+- HTML 
+- CSS 
+- JS
+Of course this is only a blue-print, feel free to beautify it
+
+Implement a really basic search engine by invoking algolia API (see below link)
+
+## Algolia documentation:
+
+- https://www.algolia.com/doc/
+
+## Additional:
+- We are looking for a cross functional team leader: think outside of the box
+- Use lorem ipsum for the content
+- Please include in the README.md file instructions on how to run the website on our machines.
+- In addition to the above, please write a recommendation on how we can use the above tests across our Development, Staging and Production environments.
